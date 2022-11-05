@@ -1,4 +1,4 @@
-require 'bundler'
+require 'bundler/setup'
 Bundler.require
 
 require_relative '../lib/song'
